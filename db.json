@@ -971,18 +971,90 @@
       ]
     }
   ],
-  "users": [
+  "users": {
+      "firstName": "muhammad",
+      "lastName": "morowati",
+  "sessions":[
     {
-      "id": 1,
-      "name": "ali"
-    },
-    {
-      "id": 2,
-      "name": "reza"
-    },
-    {
-      "id": 3,
-      "name": "mehdi"
-    }
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Upcoming"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Upcoming"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Upcoming"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+},
+{
+      "pricePerSession": 50,
+  "date": "25 apr",
+  "time": "08:00",
+  "timeStatus": "PM",
+  "remainingTime": "1 hour",
+  "sessionStatus": "Done"
+}
   ]
+  }
 }
