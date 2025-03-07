@@ -971,11 +971,11 @@
       ]
     }
   ],
-  "users": {
+  "bookings": [
+    {
+      "id":"1",
       "firstName": "muhammad",
       "lastName": "morowati",
-  "sessions":[
-    {
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -984,6 +984,9 @@
   "sessionStatus": "Upcoming"
 },
 {
+  "id":"2",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -992,6 +995,9 @@
   "sessionStatus": "Upcoming"
 },
 {
+  "id":"3",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1000,6 +1006,9 @@
   "sessionStatus": "Upcoming"
 },
 {
+  "id":"4",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1008,6 +1017,9 @@
   "sessionStatus": "Done"
 },
 {
+  "id":"5",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1016,6 +1028,9 @@
   "sessionStatus": "Done"
 },
 {
+  "id":"6",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1024,6 +1039,9 @@
   "sessionStatus": "Done"
 },
 {
+  "id":"7",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1032,6 +1050,9 @@
   "sessionStatus": "Done"
 },
 {
+  "id":"8",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1040,6 +1061,9 @@
   "sessionStatus": "Done"
 },
 {
+  "id":"9",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1048,6 +1072,9 @@
   "sessionStatus": "Done"
 },
 {
+  "id":"10",
+  "firstName": "muhammad",
+      "lastName": "morowati",
       "pricePerSession": 50,
   "date": "25 apr",
   "time": "08:00",
@@ -1056,5 +1083,4 @@
   "sessionStatus": "Done"
 }
   ]
-  }
 }
